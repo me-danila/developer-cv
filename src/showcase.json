@@ -1,0 +1,317 @@
+[
+  {
+    "category": "Telegram",
+    "link": "https://t.me/ozon_prteam_bot",
+    "country": "🇷🇺",
+    "client": "Ozon",
+    "name": "Telegram-бот RP-службы Ozon",
+    "description": "Прием обращений журналистов, чат с топиками, автоответы",
+    "stack": "NodeJS, MongoDB"
+  },
+  {
+    "category": "Telegram",
+    "link": "https://t.me/paradox_security_bot",
+    "country": "🌐",
+    "client": "PARADOX",
+    "name": "VPN-сервис с управлением через Telegram-бот",
+    "stack": "telegraf.js, marzban, docker, nginx, bash, API, YooKassa"
+  },
+  {
+    "category": "Telegram",
+    "link": "https://t.me/amcake_bot",
+    "country": "🇷🇺",
+    "client": "amcake",
+    "name": "Telegram-бот системы лояльности",
+    "description": "Начисление баллов по фискальным чекам, трата/сгорание баллов, антифрод, поздравление с ДР, рассылки",
+    "stack": "PHP, Symfony, MySQL, nginx"
+  },
+  {
+    "category": "Telegram",
+    "link": "https://t.me/kazpolis_web_bot/app",
+    "country": "🇰🇿 🇷🇺",
+    "client": "Kazpolis",
+    "name": "Telegram мини-апп для автострахового агентства",
+    "stack": "WordPress, Bricks, nginx"
+  },
+  {
+    "category": "Telegram",
+    "link": "https://t.me/gormore_bot/moregor",
+    "country": "🇷🇺",
+    "client": "Море гор",
+    "name": "Telegram мини-апп для туристического агентства",
+    "stack": "WordPress, Bricks, nginx"
+  },
+  {
+    "category": "Next.js",
+    "link": "https://lesnaya.cdn1.dev",
+    "country": "🇷🇺",
+    "client": "Лесная мастерская",
+    "name": "Сайт-каталог для производителя изделий из ценных пород древесины",
+    "stack": "Next.js, Telegram API, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://kazpolis.ru",
+    "country": "🇰🇿 🇷🇺",
+    "client": "Kazpolis",
+    "name": "Посадочная страница международного автострахового агентства",
+    "description": "С показателям 100/100/100/100 по Google PageSpeed Insights",
+    "stack": "WordPress, Bricks, nginx, AmoCRM API, Telegram API, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://gormore.ru",
+    "country": "🇷🇺",
+    "client": "Море гор",
+    "name": "Сайт для экскурсионного агентства",
+    "stack": "WordPress, Bricks, nginx, varnish, Google AppScript, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://academia.spb.ru",
+    "country": "🇷🇺",
+    "client": "ACADEMIA",
+    "name": "Мультиязычный сайт международной сети отелей 4*",
+    "stack": "WordPress, Bricks, openlitespeed, DevOps, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://academiadubai.com",
+    "country": "🇦🇪",
+    "client": "ACADEMIA",
+    "name": "Мультиязычный сайт апартаментов в Дубае",
+    "stack": "WordPress, Bricks, nginx, varnish, DevOps, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://avtocreditrf.ru",
+    "country": "🇷🇺",
+    "client": "АвтоКредитРФ",
+    "name": "Посадочная страница для автокредитного брокера",
+    "stack": "WordPress, Elementor, nginx, API, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://academia-hotels.ru",
+    "country": "🇷🇺",
+    "client": "SyncOtel",
+    "name": "Мультиязычный сайт сети отелей 3*",
+    "stack": "WordPress, UX Builder, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://italiatut.com",
+    "country": "🇮🇹 🇷🇺",
+    "client": "Italiatut",
+    "name": "Мультиязычный портал консьерж-центра в Италии",
+    "stack": "WordPress, Elementor, nginx, YooKassa, Stripe, Leeloo"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://pestandart.ru",
+    "country": "🇷🇺",
+    "client": "pestandart",
+    "name": "Корпоративный портал сертифицирующей организации",
+    "stack": "WordPress, Elementor, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://active-carbon.ru",
+    "country": "🇷🇺",
+    "client": "Active Carbon",
+    "name": "Сайт-каталог для производителя гранулированного угля",
+    "stack": "Wordpress, Bricks, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://dreamhim55.ru",
+    "country": "🇷🇺",
+    "client": "DreamHim55",
+    "name": "Посадочная страница для автохимчистки",
+    "stack": "Wordpress, Bricks, Веб-дизайн"
+  },
+  {
+    "category": "DevOps",
+    "link": "https://mail.lemaris.su",
+    "country": "🇷🇺",
+    "client": "Lemaris",
+    "name": "Почтовый сервер для дистрибьютора продуктов питания",
+    "stack": "DevOps, nginx, mailu"
+  },
+  {
+    "category": "DevOps",
+    "link": "https://mail.active-carbon.ru",
+    "country": "🇷🇺",
+    "client": "Active Carbon",
+    "name": "Почтовый сервер для производителя гранулированного угля",
+    "stack": "DevOps, nginx, mailcow"
+  },
+  {
+    "category": "Low code",
+    "link": "https://academia-shuvaloff.ru",
+    "country": "🇷🇺",
+    "client": "ACADEMIA",
+    "name": "Сайт исторического особняка-отеля",
+    "stack": "Tilda, Веб-дизайн"
+  },
+  {
+    "category": "Low code",
+    "link": "https://acnevicid.beautycevtika.com",
+    "country": "🇷🇺",
+    "client": "Бьютицевтика",
+    "name": "Лендинг медицинского товара",
+    "stack": "Tilda"
+  },
+  {
+    "category": "Low code",
+    "link": "https://atvtur126.ru",
+    "country": "🇷🇺",
+    "client": "Avtur",
+    "name": "Лендинг-афиша для организатора автотуров",
+    "stack": "Tilda"
+  },
+  {
+    "category": "Low code",
+    "link": "https://justadvisors.ge",
+    "country": "🇬🇪",
+    "client": "Just Advisors",
+    "name": "Доработка мультиязычного корпоративного портала юридической компании",
+    "stack": "Tilda"
+  },
+  {
+    "category": "Low code",
+    "link": "https://argumentum.id",
+    "country": "🇦🇪 🇷🇺",
+    "client": "Argumentum",
+    "name": "Лендинг KYC-решения для бизнеса",
+    "stack": "Tilda"
+  },
+  {
+    "category": "Low code",
+    "link": "https://neurovision.tilda.ws",
+    "country": "🇦🇪 🇷🇺",
+    "client": "NeuroVision",
+    "name": "Лендинг для системы распознавания лиц и документов",
+    "stack": "Tilda"
+  },
+  {
+    "category": "Low code",
+    "link": "https://allafilina.com/to-be",
+    "country": "🇷🇺",
+    "client": "Алла Филина",
+    "name": "Лендинг для коуча",
+    "stack": "Tilda"
+  },
+  {
+    "category": "Low code",
+    "link": "https://taplink.cc/kazpolis.ru",
+    "country": "🇰🇿 🇷🇺",
+    "client": "Kazpolis",
+    "name": "Taplink для автострахового агентства",
+    "stack": "Taplink"
+  },
+  {
+    "category": "Low code",
+    "link": "https://jremniova.taplink.ws",
+    "country": "🇪🇸",
+    "client": "Яна Ремнева",
+    "name": "Taplink для коуча",
+    "stack": "Taplink"
+  },
+  {
+    "category": "Low code",
+    "link": "https://taplink.cc/excursions_adler",
+    "country": "🇷🇺",
+    "client": "Excursions Adler",
+    "name": "Taplink для туристического агентства",
+    "stack": "Taplink"
+  },
+  {
+    "category": "Low code",
+    "link": "https://strogoorganic.ru/bal2025_new",
+    "country": "🇷🇺",
+    "client": "StrogoOrganic",
+    "name": "Посадочная страница мероприятия онлайн-школы",
+    "stack": "Tilda, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/neiro-clients-ev",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/ssnm_clients_1",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/ssnm_modern",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/neiro_modern",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/neiro-course",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/clients_from_social",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/neiro_2025",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/neuro_start-gk",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/fingra",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  },
+  {
+    "category": "GetCourse",
+    "link": "https://edu.i-sales.pro/telegram_course_long",
+    "country": "🇷🇺",
+    "client": "SMM Академия Михаила Христосенко",
+    "name": "Лендинг онлайн-курса",
+    "stack": "GetCourse, Веб-дизайн"
+  }
+]

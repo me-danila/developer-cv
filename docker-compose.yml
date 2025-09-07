@@ -1,0 +1,10 @@
+services:
+  developer-cv:
+    build: .
+    image: developer-cv:latest
+    container_name: developer-cv
+    env_file:
+      - .env
+    ports:
+      - "${PORT}:${PORT}"
+    restart: unless-stopped

@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: var(--background);
+    color: var(--foreground);
+}
+
+.showcase-active {
+    animation: green-pulse-animation 3s infinite;
+}
+
+@keyframes green-pulse-animation {
+    0% {
+        box-shadow: 0 0 #66ff9975
+    }
+
+    to {
+        box-shadow: 0 0 0 8px #6f90
+    }
+}
