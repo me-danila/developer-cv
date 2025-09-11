@@ -46,6 +46,7 @@ export default function HeroCode() {
                                                 <span className="text-slate-400">: </span>
                                                 <Link href={'https://wa.me/79136062001'} target={'_blank'}
                                                       className="text-sky-400">'+7 (913) 606-20-01'</Link>
+                                                <span className="text-slate-400">, </span>
                                             </span>
                                             <span className="line">
                                                 <span>    </span>

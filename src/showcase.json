@@ -27,6 +27,15 @@
   },
   {
     "category": "Telegram",
+    "link": "https://t.me/ollytherapy_bot",
+    "country": "🇷🇺",
+    "client": "Olly team",
+    "name": "Telegram-бот онлайн-записи",
+    "description": "Онлайн-бронивание по рубрикам/специалистам, напоминания, оплата",
+    "stack": "JS, API"
+  },
+  {
+    "category": "Telegram",
     "link": "https://t.me/kazpolis_web_bot/app",
     "country": "🇰🇿 🇷🇺",
     "client": "Kazpolis",
@@ -55,8 +64,8 @@
     "country": "🇰🇿 🇷🇺",
     "client": "Kazpolis",
     "name": "Посадочная страница международного автострахового агентства",
-    "description": "С показателям 100/100/100/100 по Google PageSpeed Insights",
-    "stack": "WordPress, Bricks, nginx, AmoCRM API, Telegram API, Веб-дизайн"
+    "description": "С показателями 100/100/100/100 по Google PageSpeed Insights",
+    "stack": "WordPress, Bricks, openlitespeed, AmoCRM API, Telegram API, Веб-дизайн"
   },
   {
     "category": "WordPress",
@@ -81,6 +90,14 @@
     "client": "ACADEMIA",
     "name": "Мультиязычный сайт апартаментов в Дубае",
     "stack": "WordPress, Bricks, nginx, varnish, DevOps, Веб-дизайн"
+  },
+  {
+    "category": "WordPress",
+    "link": "https://academia-spa.ru",
+    "country": "🇷🇺",
+    "client": "ACADEMIA",
+    "name": "Сайт спа-комплекса",
+    "stack": "WordPress, Bricks, openlitespeed, DevOps, Веб-дизайн"
   },
   {
     "category": "WordPress",
@@ -120,7 +137,7 @@
     "country": "🇷🇺",
     "client": "Active Carbon",
     "name": "Сайт-каталог для производителя гранулированного угля",
-    "stack": "Wordpress, Bricks, Веб-дизайн"
+    "stack": "Wordpress, Bricks, openlitespeed, Веб-дизайн"
   },
   {
     "category": "WordPress",
@@ -128,7 +145,7 @@
     "country": "🇷🇺",
     "client": "DreamHim55",
     "name": "Посадочная страница для автохимчистки",
-    "stack": "Wordpress, Bricks, Веб-дизайн"
+    "stack": "Wordpress, Bricks, openlitespeed, Веб-дизайн"
   },
   {
     "category": "DevOps",
